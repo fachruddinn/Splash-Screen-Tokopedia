@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Splash Screen Tokopedia</string>
+    <string name="message">Tampilan Splash Screen Tokopedia\n\nMuncul di awal saat aplikasi dibuka\n\nKeep Learning\nLearning By Doing</string>
+</resources>
